@@ -1,0 +1,19 @@
+{
+  "name": "roll-the-dice-by-charles-bukowski",
+  "author": "Casey Bui",
+  "email": "buikhacnam11@gmail.com",
+  "version": "0.0.1",
+  "description": "Roll the dice - by Charles Bukowski read by Lex Fridman.",
+  "homepage": "https://buinam.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "play-sound": "^1.1.5"
+  }
+}
