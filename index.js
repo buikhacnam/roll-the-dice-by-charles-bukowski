@@ -35,7 +35,7 @@ async function start() {
 
 	await sleep(13000 - 11000)
 	console.log(
-		gradient('cyan', 'pink')('wise relatives jobs and maybe your mind')
+		gradient('cyan', 'pink')('wives, relatives, jobs and maybe your mind')
 	)
 
 	await sleep(16000 - 13000)
